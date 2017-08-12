@@ -1,4 +1,5 @@
 jQuery().ready(function(){
 
+onclick();
 
 });
